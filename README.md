@@ -12,4 +12,8 @@ This is a Football Stats App designed to provide users with various statistics a
 
 ## Images
 <img width="1440" alt="image" src="https://github.com/Vishnuhan/Football-Stats-App/assets/100395122/216e897d-8e6d-43f7-9784-03569203f5b5">
+<img width="1434" alt="image" src="https://github.com/Vishnuhan/Football-Stats-App/assets/100395122/dcf23a63-c2a2-4990-9e21-ab1403c2c9db">
+![image](https://github.com/Vishnuhan/Football-Stats-App/assets/100395122/5d36aa98-628f-49a0-a664-767bbae56b49)
+![image](https://github.com/Vishnuhan/Football-Stats-App/assets/100395122/b9f256e6-b5ad-434c-a208-66c46c06635e)
+
 
